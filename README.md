@@ -6,26 +6,31 @@
 
 ## Formação PHP Experience
 
-Este projeto é uma api rest em php.
-
-![Exemplo de Screenshot](imagens/dashboard.png)
-
-![Exemplo de Screenshot](imagens/ir.png)
-
-![Exemplo de Screenshot](imagens/ir2.png)
-
-![Exemplo de Screenshot](imagens/login.png)
-
-![Exemplo de Screenshot](imagens/movimento.png)
+Este projeto é uma api rest em php do bootcamp Formação PHP Experience da DIO.
 
 ### Recursos Principais
 
 - Framework Laravel
 - BLADE
-- Banco de dados laragon SQL
+- Laragon
 - Api rest
 - Code Sniffer
 - CRUD (Create, Read, Update, Delete)
+- Postman
+
+Utilizei laragon como ambiente de desenvolvimento web.
+
+![Exemplo de Screenshot](imagens/laragon.png)
+
+Utilizei o postman para testar a api.
+
+![Exemplo de Screenshot](imagens/get.png)
+
+![Exemplo de Screenshot](imagens/controller.png)
+
+![Exemplo de Screenshot](imagens/controller2.png)
+
+![Exemplo de Screenshot](imagens/destroy.png)
 
 ### Instalação
 
@@ -38,6 +43,7 @@ Este projeto é uma api rest em php.
 ### Uso
 
 - Execute `php artisan serve` para iniciar o servidor local
+- Execute o Laragon para iniciar o banco de dados
 - Acesse o aplicativo em http://localhost:8000
 
 ## Contribuição
