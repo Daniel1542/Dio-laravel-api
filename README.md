@@ -1,18 +1,12 @@
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
+<p align="center"><a href="https://www.dio.me/bootcamp/formacao-php-experience" target="_blank"><img src="imagens/20b04ddf-42a7-4945-b004-e6cd8b1a798f.webp" width="300" height="300" alt="PHP"></a></p>
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Sobre o projeto
+## Formação PHP Experience
 
-Este projeto é um site ainda em desenvolvimento para auxiliar na declaração de imposto de renda de ações e fundos imobiliários.
-
-![Exemplo de Screenshot](imagens/cadastro.png)
+Este projeto é uma api rest em php.
 
 ![Exemplo de Screenshot](imagens/dashboard.png)
 
@@ -27,16 +21,11 @@ Este projeto é um site ainda em desenvolvimento para auxiliar na declaração d
 ### Recursos Principais
 
 - Framework Laravel
-- Bootstrap para o design responsivo
-- BLADE, CSS
-- Javascript para fazer ajax
+- BLADE
 - Banco de dados laragon SQL
 - Api rest
 - Code Sniffer
-- phpUnit
 - CRUD (Create, Read, Update, Delete)
-- Tela de login e cadastro
-- Opção de baixar dados em formato Excel e PDF
 
 ### Instalação
 
