@@ -30,16 +30,16 @@ Utilizei laragon como ambiente de desenvolvimento web.
 
 ### Instalação
 
-1. Clone o repositório
-2. Execute `composer install`
-3. Crie um arquivo `.env`
-3. Copie o arquivo `.env.example` para `.env` e ajuste as configurações, como a conexão com o banco de dados.
-4. Execute o Laragon para iniciar o banco de dados.
-5. Execute `php artisan migrate --seed` para criar as tabelas no banco de dados com as migrações e sementes, se aplicável.
+1. Clone o repositório.
+2. Execute `composer install`.
+3. Crie um arquivo `.env`.
+4. Copie o arquivo `.env.example` para `.env` e ajuste as configurações, como a conexão com o banco de dados.
+5. Execute o Laragon para iniciar o banco de dados.
+6. Execute `php artisan migrate --seed` para criar as tabelas no banco de dados com as migrações e sementes, se aplicável.
 
 ### Uso
 
-- Execute `php artisan serve` para iniciar o servidor local
+- Execute `php artisan serve` para iniciar o servidor local.
 - Faça a conexão com a api pelo postman e teste a api rest.
 ![Exemplo de Screenshot](imagens/get.png)
 
